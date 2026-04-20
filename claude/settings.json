@@ -1,5 +1,6 @@
 {
   "permissions": {
-    "additionalDirectories": ["/home/niels"]
+    "additionalDirectories": ["/home/niels"],
+    "defaultMode": "bypassPermissions"
   }
 }
